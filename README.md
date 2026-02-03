@@ -11,7 +11,7 @@ Attempted to use a handful of techniques but the input file is a combination of 
 
 ## Output
 
-[./output.txt](./output.txt)
+[output.txt](https://drive.google.com/file/d/1G0_wHPs5pY7aBJp6XjFcvhPeDs1Z2AkI/view?usp=sharing)
 
 Jobs were mostly scraped using the most commonly seen css classes. The flow was to navigate to the jobs page, grab the next link, grab all jobs on the page scraping the title and details link, navigate to each detail page to get the job details and metadata, and then continue on to the next page if there was one.
 
